@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BackupItManager\BackupItLogic.csproj" />
+    <ProjectReference Include="..\BackupItLibrary\BackupItLogic.csproj" />
   </ItemGroup>
 
 </Project>
