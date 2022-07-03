@@ -8,7 +8,7 @@ namespace BackupItConsole
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello Me!");
 
 			Checksum checksum = BackupItManager.GetChecksumForDirectory(@"D:\Repos\backup-it");
 			checksum.Save();
